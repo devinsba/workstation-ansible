@@ -1,0 +1,4 @@
+---
+# This file is required for ansible to correcly allow use of "subroles"
+#  your roles can be called "workstation/nvm" and it will work
+galaxy_info:
